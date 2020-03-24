@@ -48,14 +48,21 @@
     "uniqCompNum": 11,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Esthetic Oral",
+        "meta_descr": "Dr. Rogério Pacônio",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
